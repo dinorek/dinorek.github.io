@@ -856,7 +856,7 @@ footer .arriba{
 
     .galeria-work{
         margin-left: -60px;
-        display: flex;
+        display: block;
     }
     .galeria-work img{
         aling-text: center;
