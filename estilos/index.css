@@ -628,11 +628,8 @@ html{
 }
 
 
-.img-work img{
-    height: 100%;
-    width: 80%;
-   padding-top: 48px;
-    object-fit: cover;
+.img-work video{
+  width: 120%;
 }
 
 
