@@ -859,5 +859,7 @@ width: 110%
         heigth: 500px;
         margin-left: -50px;
 }
-    
+    img-work{
+        padding-left: -50px;
+    }
 }
