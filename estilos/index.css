@@ -857,5 +857,8 @@ footer .arriba{
     .galeria-work{
         margin-left: -100px;
     }
+    .galeria-work video{
+    width: 500px;
+    height: 270px;
    
 }
