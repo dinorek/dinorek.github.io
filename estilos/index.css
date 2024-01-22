@@ -853,5 +853,9 @@ footer .arriba{
     .contacto .fila .col{
         width: 100%;
     }
+
+    .galeria-work{
+        margin-left: -50px;
+    }
    
 }
