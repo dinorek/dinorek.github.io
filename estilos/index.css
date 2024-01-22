@@ -858,8 +858,10 @@ width: 110%
         width: 800px;
         heigth: 500px;
         margin-left: -50px;
+        display:none;
 }
     img-work{
         margin-left: -150px;
+        display:none;
     }
 }
