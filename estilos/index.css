@@ -795,7 +795,7 @@ footer .arriba{
     font-size: 18px;
 }
 
-@media screen and (max-width:980px) {
+@media screen and (max-width:667px) {
     nav{
         display: none;
     }
@@ -820,7 +820,7 @@ footer .arriba{
     .galeria-work{
         display:none;
 }
-@media screen and (max-width:500px) {
+@media screen and (max-width:667px) {
     .sobremi .fila{
         display: block;
     }
