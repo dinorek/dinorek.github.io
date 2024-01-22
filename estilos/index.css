@@ -820,7 +820,7 @@ footer .arriba{
     .galeria-work{
         display:none;
 }
-@media screen and (max-width:700px) {
+@media screen and (max-width:500px) {
     .sobremi .fila{
         display: block;
     }
@@ -851,8 +851,6 @@ footer .arriba{
     .contacto .fila .col{
         width: 100%;
     }
-
-    .galeria-work{
 width: 110%
     }
     .img-work video{
