@@ -817,7 +817,8 @@ footer .arriba{
         border-bottom: 1px solid #fff;
         padding: 10px 0;
     }
-    
+    .galeria-work{
+        display:none;
 }
 @media screen and (max-width:700px) {
     .sobremi .fila{
