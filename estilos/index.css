@@ -853,13 +853,11 @@ footer .arriba{
 
     .galeria-work{
         display: block;
-        width: 150%;
     }
     .img-work video{
-    aling-items: center;
         width: 500px;
         heigth: 250px;
-        position: fixed;
+        
 }
     
 }
