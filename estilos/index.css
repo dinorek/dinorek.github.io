@@ -855,8 +855,11 @@ footer .arriba{
     }
 
     .galeria-work{
-        margin-left: -100px;
+        margin-left: -60px;
+        display: flex;
     }
+
+    
 
    
 }
