@@ -859,5 +859,6 @@ footer .arriba{
     aling-items: center;
         width: 700px;
         heigth: 250px;
+        position: fixed;
 }
 }
