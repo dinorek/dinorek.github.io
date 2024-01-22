@@ -855,4 +855,9 @@ footer .arriba{
         margin-left: -60px;
         display: block;
     }
+    .img-work video{
+    aling-items: center;
+        width: 600;
+        heigth:300;
+}
 }
